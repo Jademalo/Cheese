@@ -19,6 +19,7 @@
 ## X-Wago-ID: XKqEywKy
 ## X-Github: https://github.com/Jademalo/Cheese
 
+## SavedVariablesPerCharacter: CheesePrevLevelTime
 
 ## Core ##
 Core.lua
