@@ -1,4 +1,4 @@
 package-as: Cheese
 
 ignore:
-- Media
+  - Media
