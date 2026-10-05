@@ -1,4 +1,7 @@
 # Cheese!
+[CurseForge](https://www.curseforge.com/wow/addons/cheese)  
+[Wago](https://addons.wago.io/addons/cheese)  
+[WoW Interface](https://www.wowinterface.com/downloads/info27243-Cheese.html)  
 
 Say Cheese!
 
