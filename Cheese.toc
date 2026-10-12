@@ -1,7 +1,7 @@
-## Interface: 120100, 11509, 16001
+## Interface: 120100, 16001, 50504, 38002, 20506, 11509
 ## Interface-Vanilla: 11509
 ## Interface-TBC: 20506
-## Interface-Wrath: 30405
+## Interface-Wrath: 38002
 ## Interface-Cata: 40402
 ## Interface-Mists: 50504
 ## Interface-Camelot: 16001
