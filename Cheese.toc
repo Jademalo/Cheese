@@ -1,4 +1,4 @@
-## Interface: 120100, 11509, 16001
+## Interface: 120100, 16001, 50504, 38002, 20506, 11509
 
 ## Title: Cheese!
 ## Notes: Automatically take a screenshot when you level up
